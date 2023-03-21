@@ -16,7 +16,7 @@ body {
 
 body, input, button, textarea{
   font-family: 'Poppins', serif;
-  font-size: 16px;
+  font-size: 14px;
   outline: none;
 }
 
