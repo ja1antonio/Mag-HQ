@@ -6,5 +6,6 @@ export default {
     RED: '#e62429',
     GOLD: '#c6a972',
     GRAY: '#9d9d9d',
+    WHITE_TEXT: '#E1E1E6',
   },
 };
